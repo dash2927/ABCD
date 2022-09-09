@@ -1,5 +1,4 @@
 # ABCD
-Repository for cspb 4502 (Data Mining) Group Project
 
 ### Project Presentation
 
@@ -10,6 +9,7 @@ Repository for cspb 4502 (Data Mining) Group Project
 - David Shackelford
 
 ### Project Description
+Repository for cspb 4502 (Data Mining) Group Project
 
 ### Motivation
 
