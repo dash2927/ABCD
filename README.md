@@ -1,4 +1,4 @@
-# ABCD
+# Project Title
 
 ### Project Presentation
 
@@ -12,6 +12,11 @@
 Repository for cspb 4502 (Data Mining) Group Project
 
 ### Motivation
+1. question 1
+2. question 2
+3. question 3
+
+### Application
 
 ### File Hierarchy
 
