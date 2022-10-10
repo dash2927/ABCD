@@ -1,4 +1,4 @@
-# Project Title
+# Movie Recommendations
 
 ### Project Presentation
 Paper : 
@@ -12,12 +12,12 @@ Presentation :
 - David Shackelford
 
 ### Project Description
-Repository for cspb 4502 (Data Mining) Group Project
+This project explores data for movie recommendations. Specifically, it will look over the well know dataset featured in the Netflix prize with added supplementary data from various sources like IMDB. This project is an exploration into movie trends and with understanding what causes people to enjoy a piece of cinema.
 
 ### Motivation
-1. question 1
-2. question 2
-3. question 3
+1. Can we make recommendations of movies based on prior customer ratings?
+2. Can we create inferences based on attributes of a movie?
+3. Can we observe trends in the movie industry and how people enjoy movies?
 
 ### Application
 
