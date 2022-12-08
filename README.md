@@ -1,34 +1,45 @@
-# Movie Recommendations
+# Movie Recommendations  
 
-### Project Presentation
+### Project Presentation  
 Paper : 
 
 Presentation : https://youtu.be/4EQSB9aHdTU
 
-### Team Members
+### Team Members  
 - Abdullah Adlouni
 - Ben Healy
 - Charles Dorman 
 - David Shackelford
 
-### Project Description
+### Project Description  
 This project explores data for movie recommendations. Specifically, it will look over the well know dataset featured in the Netflix prize with added supplementary data from various sources like IMDB. This project is an exploration into movie trends and with understanding what causes people to enjoy a piece of cinema.
 
-### Motivation
-1. Can we make recommendations of movies based on prior customer ratings?
-2. Can we create inferences based on attributes of a movie?
-3. Can we observe trends in the movie industry and how people enjoy movies?
+### Motivation and Questions  
+1. Can we make recommendations of movies based on prior customer ratings?  
+2. Can we create inferences based on attributes of a movie?  
+3. Can we observe trends in the movie industry and how people enjoy movies?  
 
-### Application
+### File Hierarchy  
 
-### File Hierarchy
+### Sources  
+[1]	https://www.grandviewresearch.com/press-release/global-video-streaming-market  
+[2]	https://www.blueweaveconsulting.com/report/video-streaming-market    
+[3]	https://www.kantar.com/north-america/inspiration/technology/us-video-streaming-market-growth-stalls   
+[4]	https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data   
+[5]	https://datasets.imdbws.com/   
+[6]	https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata   
+[7]	https://journals.sagepub.com/doi/full/10.1177/1461444814538646#bibr66-1461444814538646   
+[8]	Jahrer, Michael & Töscher, Andreas & Legenstein, Robert. (2010). Combining predictions for accurate recommender systems. 693-702. 10.1145/1835804.1835893.   
+[9]	Bhatia, N., & Patnaik, P. (2008). Netflix Recommendation based on IMDB.   
+[10] https://github.com/google-research/bert#sentence-and-sentence-pair-classification-tasks   
+[11]  https://bert-as-service.readthedocs.io/en/latest/index.html    
+[12]  https://medium.com/codex/hybrid-recommender-system-netflix-prize-dataset-e9f6b4a875aa   
+[13]  https://sifter.org/~simon/journal/20061211.html   
+[14]  https://surprise.readthedocs.io/en/stable/index.html    
+[15]  https://en.wikipedia.org/wiki/Mean_absolute_error   
+[16]  https://en.wikipedia.org/wiki/Root-mean-square_deviation 
 
-### Sources
-* https://en.wikipedia.org/wiki/Recommender_system
-* https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
-
-## Temp
-### Important Dates
+### Important Dates  
 |   |   |
 |---|---|
 | Project Proposal | Mon Oct 10 |
