@@ -12,14 +12,15 @@ Presentation : https://youtu.be/4EQSB9aHdTU
 - David Shackelford
 
 ### Project Description  
-This project explores data for movie recommendations. Specifically, it will look over the well know dataset featured in the Netflix prize with added supplementary data from various sources like IMDB. This project is an exploration into movie trends and with understanding what causes people to enjoy a piece of cinema.
+This project explores data for movie recommendations. Specifically, it will look over the well known dataset featured in the Netflix prize with added supplementary data from various sources like the IMDB dataset and the TMDB dataset taken from kaggle. The main purpose of this project is to explore the data that large streaming services use in order to gain some insight into what movies people enjoy watching, and to explore how streaming services might recommend media to customers.
+
+### Applicaiton  
+This can be potentially used by leaders of streaming services to give some insight into what types of media to invest money. It also can be used by industry leaders to help understand changes in what people enjoy watching and popularity of media.
 
 ### Motivation and Questions  
 1. Can we make recommendations of movies based on prior customer ratings?  
 2. Can we create inferences based on attributes of a movie?  
 3. Can we observe trends in the movie industry and how people enjoy movies?  
-
-### File Hierarchy  
 
 ### Sources  
 [1]	https://www.grandviewresearch.com/press-release/global-video-streaming-market  
