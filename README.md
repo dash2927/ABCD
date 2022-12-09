@@ -1,7 +1,7 @@
 # Movie Recommendations  
 
 ### Project Presentation  
-Paper : https://1drv.ms/b/s!Ak3DIX9gEMiai7RuvQhYyHDykhMDgQ
+Paper : [public link](https://1drv.ms/b/s!Ak3DIX9gEMiai7RuvQhYyHDykhMDgQ?e=7wgt54)
 
 Presentation : https://youtu.be/4EQSB9aHdTU
 
